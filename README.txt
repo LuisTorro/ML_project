@@ -1,4 +1,4 @@
-https://github.com/LuisTorro/Proyecto_ML
+https://github.com/LuisTorro/ML_project
 
 OBJETIVO DEL PROYECTO: 
 El proyecto tiene como finalidad comprobar si es posible automatizar la clasificación 
